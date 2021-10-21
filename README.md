@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/138302986-ab66ae85-0c95-4529-846f-f3b309ac442e.png" align="left" height="150px" width="150px">
+    <h1># Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Neste projeto você terá o desafio de desenvolver uma API Rest de consulta de cidades do BRasil com dados comparativos. Iremos navegar pelas boas práticas de Java e do Spring, popular banco de dados Postgres e criar um serviço para o cálculo de distância entre cidades. Todos os creditos para o professor André Luis Gomes.
     </p>
 </p>      
 
